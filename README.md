@@ -40,7 +40,7 @@ ToDoListApp/
 │ │ │ ├── res/values/...
 │── build.gradle.kts
 │── settings.gradle.kts
-│── README.md
+│── README.md```
 
 
 ---
