@@ -27,7 +27,7 @@ A simple **ToDo List Android application** built using
 ---
 
 ## 📂 Project Structure
-ToDoListApp/
+```ToDoListApp/
 │── app/
 │ ├── src/
 │ │ ├── main/
