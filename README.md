@@ -46,8 +46,8 @@ ToDoListApp/
 ---
 
 ## 📸 Screenshots
-![App Home Screen](images/Screenshot%202025-08-30%20154426.png)
-![After Adding Tasks](images/Screenshot%202025-08-30%20154642.png)
+![App Home Screen](app/src/images/Screenshot%202025-08-30%20154426.png)
+![After Adding Tasks](app/src/images/Screenshot%2025-08-30%20154642.png)
 ---
 
 ## ▶️ How to Run
